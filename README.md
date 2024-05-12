@@ -11,7 +11,7 @@
 
 Данные хранятся в таблицах следующим образом:
 
-![Схема базы данных](https://github.com/esartium/testTaskVk/master/scheme/db_scheme_vk.png)
+![Схема базы данных](https://github.com/esartium/testTaskVk/raw/master/scheme/db_scheme_vk.png)
 
 Назначение таблиц:
 
@@ -159,7 +159,7 @@ CREATE TABLE `orders` (
 
 ## 2
 
-![Схема компонентов системы и их взаимодействия](https://github.com/esartium/testTaskVk/master/scheme/components_scheme_vk.jpg)
+![Схема компонентов системы и их взаимодействия](https://github.com/esartium/testTaskVk/raw/master/scheme/components_scheme_vk.jpg)
 
 ## 3
 
